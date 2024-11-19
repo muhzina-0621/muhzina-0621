@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhzina Mohamed Afzal</h1>
-<h3 align="center">A Budding Data Analyst Student from India</h3>
+<h3 align="center">A Budding Data Analyst Student from Indi</h3>
 
 - 🌱 I’m currently learning **Data Analysis ,ML and AI**
 
